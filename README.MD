@@ -1,7 +1,5 @@
 # m3u8 Video Downloader
 
-[![Node.js Version](https://img.shields.io/node/v/your-package-name.svg)](https://nodejs.org/)
-[![npm version](https://img.shields.io/npm/v/your-package-name.svg)](https://www.npmjs.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple tool to download videos using m3u8 streaming links. Optimized for Pornhub links.
